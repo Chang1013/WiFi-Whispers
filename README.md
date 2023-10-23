@@ -17,10 +17,12 @@ Hardware Setup
 
 Dataset
 ===
-Two experimenter: Person A and Person B<br>
-Each Person has four dataset (door path1, door path2, wall path1 and wall path2)<br>
->door mean RX placed behind the door<br>
->wall mean RX placed behind the wall<br>
+* Two experimenter: Person A and Person B<br>
+* Each Person has four dataset (door path1, door path2, wall path1 and wall path2)<br>
+  * door mean RX placed behind the door<br>
+  * wall mean RX placed behind the wall<br>
+* Training set: only use person B<br>
+* Test set: only use person A<br>
 
 
 
