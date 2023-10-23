@@ -26,5 +26,11 @@ Dataset
 
 
 
-Human Activity Recognition
+Human Activity Recognition Accuracy
 ====
+| case          | walking       | empty  |
+|:-------------:|:-------------:|:-------------:|
+| door path1    | 100%          | 100%          |
+| door path2    | 100%          | 100%          |
+| wall path1    | 100%          | 100%          |
+| wall path2    | 100%          | 100%          |
